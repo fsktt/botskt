@@ -1,0 +1,28 @@
+{
+  "name": "botskt",
+  "version": "1.0.0",
+  "description": "my baby boy",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "chalk": "2.4.1",
+    "ytdl-core": "0.20.4",
+    "require-reload": "0.2.2",
+    "pretty-ms": "3.2.0",
+    "discord.js": "11.3.2",
+    "request": "2.87.0",
+    "opusscript": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsktt/botskt.git"
+  },
+  "author": "fskt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsktt/botskt/issues"
+  },
+  "homepage": "https://github.com/fsktt/botskt#readme"
+}
